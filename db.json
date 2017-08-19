@@ -34,8 +34,8 @@
     }
   ],
   "login": {
-    "username": "yudongdong",
-    "userId": 123123
+    "username": "admin@",
+    "userId": 123
   },
   "getPrice": {
     "amount": 678
@@ -43,6 +43,9 @@
   "createOrder": {
     "orderId": "6djk979"
   },
+  "checkOrder":{
+    
+  }
   "getOrderList": {
     "list": [
       {
